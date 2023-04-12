@@ -1,0 +1,32 @@
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\bin\Debug\SquareAndLine.exe.config
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\bin\Debug\SquareAndLine.exe
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\bin\Debug\SquareAndLine.pdb
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\SquareAndLine.csproj.AssemblyReference.cache
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\SquareAndLine.csproj.SuggestedBindingRedirects.cache
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\MainWindow.g.cs
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\App.g.cs
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\SquareAndLine_MarkupCompile.cache
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\SquareAndLine_MarkupCompile.lref
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\MainWindow.baml
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\SquareAndLine.g.resources
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\SquareAndLine.Properties.Resources.resources
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\SquareAndLine.csproj.GenerateResource.cache
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\SquareAndLine.csproj.CoreCompileInputs.cache
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\SquareAndLine.exe
+F:\Vs 2022项目库\其他\SquareAndLine\SquareAndLine\obj\Debug\SquareAndLine.pdb
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\bin\Debug\SquareAndLine.exe.config
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\bin\Debug\SquareAndLine.exe
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\bin\Debug\SquareAndLine.pdb
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\SquareAndLine.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\SquareAndLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\SquareAndLine_MarkupCompile.cache
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\SquareAndLine_MarkupCompile.lref
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\SquareAndLine.g.resources
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\SquareAndLine.Properties.Resources.resources
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\SquareAndLine.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\SquareAndLine.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\SquareAndLine.exe
+C:\Users\Administrator\Desktop\监听文件夹\唐昕\机试1\源代码\SquareAndLine\obj\Debug\SquareAndLine.pdb
