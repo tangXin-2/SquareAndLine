@@ -1,19 +1,51 @@
-﻿<Window x:Class="SquareAndLine.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:SquareAndLine"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+﻿<Window
+    x:Class="SquareAndLine.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:SquareAndLine"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    Loaded="Window_Loaded"
+    mc:Ignorable="d">
     <Canvas x:Name="canvas">
-        <TextBox Name="box1" Width="100" IsReadOnly="True" Height="100" Background="Red" Canvas.Left="0" Canvas.Top="0"
-               PreviewMouseDown="box1_PreviewMouseDown" PreviewMouseMove="box1_PreviewMouseMove" PreviewMouseUp="box1_PreviewMouseUp" />
-        <TextBox Name="box2" Width="100" Height="100" IsReadOnly="True" Background="green" Canvas.Left="100" Canvas.Top="0"
-                     PreviewMouseDown="box2_PreviewMouseDown" PreviewMouseMove="box2_PreviewMouseMove" PreviewMouseUp="box2_PreviewMouseUp" />
-        <Polygon x:Name="polygon" Points="50,0 0,100 100,100" Fill="Gray" Stroke="Black"
-                 IsHitTestVisible="False" Canvas.Left="350" Canvas.Top="167"/>
-        <Polyline x:Name="connector" Stroke="Black" StrokeThickness="2" Fill="Transparent" />
+        <TextBox
+            Name="box1"
+            Canvas.Left="0"
+            Canvas.Top="0"
+            Width="100"
+            Height="100"
+            Background="Red"
+            IsReadOnly="True"
+            PreviewMouseDown="box1_PreviewMouseDown"
+            PreviewMouseMove="box1_PreviewMouseMove"
+            PreviewMouseUp="box1_PreviewMouseUp" />
+        <TextBox
+            Name="box2"
+            Canvas.Left="100"
+            Canvas.Top="0"
+            Width="100"
+            Height="100"
+            Background="green"
+            IsReadOnly="True"
+            PreviewMouseDown="box2_PreviewMouseDown"
+            PreviewMouseMove="box2_PreviewMouseMove"
+            PreviewMouseUp="box2_PreviewMouseUp" />
+        <Polygon
+            x:Name="polygon"
+            Canvas.Left="350"
+            Canvas.Top="167"
+            Fill="Gray"
+            IsHitTestVisible="False"
+            Points="50,0 0,100 100,100"
+            Stroke="Black" />
+        <Polyline
+            x:Name="connector"
+            Fill="Transparent"
+            Stroke="Black"
+            StrokeThickness="2" />
 
     </Canvas>
 </Window>
