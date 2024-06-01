@@ -26,6 +26,7 @@ namespace SquareAndLine
         public MainWindow()
         {
             InitializeComponent();
+            //这是一段注释
         }
 
         private void box1_PreviewMouseDown(object sender, MouseButtonEventArgs e)
